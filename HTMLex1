@@ -1,0 +1,69 @@
+
+<html>
+<head>
+<title>HTML Fundamentals</title>
+<meta name="description" content="First course web page">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="Khaled">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head/>
+
+<body>
+    
+<h1>Overview</h1>
+    <h2>HTML drives the web</h2>
+          <p>Whether you use <abbr title="Internet Explorer">IE</abbr>, Chrome, Firefox, Safari,
+           or some other browser, many of us use the web daily. 
+          In this course you will learn the fundamental elements of creating web pages 
+          using HTML.</p>
+
+<p>
+        Not covered in this course is detailed information about 
+        <acronym title="Cascading Style Sheets">CSS</acronym>, javascript, 
+        or <acronym title="Hypertext Transfer Protocol">HTTP</acronym> 
+        as those topics are covered in detail in other Lexicon courses<sup>1,2</sup></p>
+
+      
+ <h2> Objectives</h2>
+      
+    <h3>  Outline</h3>
+      
+  <h4>A little history</h4>
+     <p> <cite>Tim Berners Lee</cite> is credited with creating the world wide web and HTML. </p>
+      
+      The World Wide Web (W3) initiative links related information throughout the globe.  HTML provides one simple format for    providing linked information, and  all W3 compatible programs are
+   required to be capable of handling HTML. W3 uses an Internet
+   protocol (Hypertext Transfer Protocol, HTTP), which allows transfer
+   representations to be negotiated between client and server, the
+   result being returned in an extended MIME message.  HTML is
+   therefore just one, but an important one, of the representations
+   used with W3.</p>
+
+
+    Examples
+
+    Whitespace
+    HTML drives the web. 
+    Whether you use IE, Chrome, Firefox, Safari, or some other browser, many of us use the web daily.
+     In this&nbsp;course you will learn the fundamental elements of creating web pages using HTML
+
+
+      This is a haiku
+  A boring haiku for you
+      This is a haiku
+
+      Breaks
+      
+  first span
+        second span
+
+      Character entities
+      this is how you write a <div>
+
+
+    <br />
+    <br />
+    <br />
+    <br />
+  </body>
+</html>
