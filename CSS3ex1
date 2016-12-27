@@ -1,0 +1,55 @@
+
+head {
+    font-family: Sans-Serif;
+}
+body {
+	font-family: Sans-Serif;
+	background-color:#e5e7ea;
+}
+
+h1 {
+    color:#d6045f;
+	font-family: Sans-Serif;
+}
+
+h2 {
+    color:#0dba32;
+	font-family: Sans-Serif;
+}
+
+h3 {
+    color:#0dba32;
+	font-family: Sans-Serif;
+}
+
+h4 {
+    color: #194284;
+	font-family: Sans-Serif;
+}
+
+h5 {
+    color: #194284;
+	font-family: Sans-Serif;
+}
+
+h6 {
+    color: #194284;
+	font-family: Sans-Serif;
+}
+
+p {
+    padding: 10 px;
+}
+
+pre {
+
+}
+
+.span{
+    color:#d60404;
+}
+
+.quote{
+    color:#232123;
+   padding: 0px 100px 0px 50px;
+}
